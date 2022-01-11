@@ -1,5 +1,5 @@
 # Waterloop Web Repositories
-Compilation of Web Repositories (Not all repos are public)
+Compilation of Active Web Repositories (Not all repos are public)
 
 
 ## Platforms
