@@ -1,7 +1,7 @@
-# Waterloop-Web-Overall
-Compilation of Web Repositories
+# Waterloop Web Repositories
+Compilation of Active Web Repositories
 
-| First Header  | Second Header |
+| Name  | Description | Link |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
